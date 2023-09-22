@@ -10,7 +10,9 @@ This repository serves as a part of the data science portfolio of Serena Seoyeon
 ## Project 
 ### Description
 The project was coordinated by DataKind for the DataDive event held from 09/15/23 to 09/17/23. 
+
 The goal of the project was to provide a prototype of a global census of built environment, using satellite imagery, other open-sourced data and AI/ML algorithms to IMF. 
+
 The expected oucomes include replicable classficiation models, visualization tools and open-source imageries to empower countries with less ground-truth data to bridge the data gap in conducting their national structure censuses. 
 
 ### Contribution

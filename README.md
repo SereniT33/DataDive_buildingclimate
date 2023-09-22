@@ -11,6 +11,6 @@ It showcases my work to **Extract, Transform and Load** data for the DataKind Da
 ### Project Brief 
 The goal of the DataDive event was to provide a prototype of a global census of built environment using satellite imagery and AI/ML algorithms to IMF. This census will provide an invaluable insights to regions that lack ground-truth data and assist decision makers in their climate policy development. 
 
-## Directory Structure
+### Directory Structure
 
 

@@ -3,7 +3,7 @@
 ![Alt text](https://img.shields.io/badge/last_commit-september-green)
 
 ## Repository Description
-This repository serves as a part of the data science portfolio of Serena Seoyeon Choi. In particular, this project showcases the following skills:
+This repository serves as a part of the data science portfolio of Serena Seoyeon Choi. In particular, it showcases the following skills:
 * to **extract, transform and load** geospatial data
 * to create a sample EDA and visualization
 

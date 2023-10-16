@@ -3,16 +3,15 @@
 ![Alt text](https://img.shields.io/badge/last_commit-september-green)
 
 ## Repository Description
-This repository serves as a part of the data science portfolio of Serena Seoyeon Choi. In particular, it showcases the following skills:
+This repository serves as a part of the portfolio of Serena Seoyeon Choi. In particular, it showcases the following skills:
 * to **extract, transform and load** geospatial data
-* to create a sample EDA and visualization
+* to perform preliminary EDA and visualization
 
 ## Project 
 ### Description
 The project was coordinated by DataKind for the DataDive event held from 09/15/23 to 09/17/23. 
 
-The goal of the project was to provide a prototype of a global census of built environment, using satellite imagery, other open-sourced data and AI/ML algorithms to IMF. 
-
+The goal of the project was to prototype a global census of built environment, using satellite imagery, other open-sourced data and AI/ML algorithms.
 The expected oucomes include replicable classficiation models, visualization tools and open-source imageries to empower countries with less ground-truth data to bridge the data gap in conducting their national structure censuses. 
 
 ### Contribution
